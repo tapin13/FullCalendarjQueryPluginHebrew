@@ -1,5 +1,5 @@
 $('#calendar_container').fullCalendar({
-  default: true, // http://arshaw.com/fullcalendar/docs/display/isRTL/
+  isRTL: true, // http://arshaw.com/fullcalendar/docs/display/isRTL/
   monthNames: ['ינואר','פברואר','מרץ','אפריל','מאי','יוני','יולי','אוגוסט','ספטמבר','אוקטובר','נובמבר','דצמבר'],
   monthNamesShort: ['ינואר','פברואר','מרץ','אפריל','מאי','יוני','יולי','אוגוסט','ספטמבר','אוקטובר','נובמבר','דצמבר'],
   dayNames: ["יום ראשון","יום שני","יום שלישי","יום רביעי","יום חמישי","יום שישי","יום שבת"],
